@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnZY.Performance.ByteConverter", "GnZY.Performance.ByteConverter\GnZY.Performance.ByteConverter.csproj", "{FC932C94-1992-4935-809C-F935DD595993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnZY.Performance.ByteConverter.Tests", "GnZY.Performance.ByteConverter.Tests\GnZY.Performance.ByteConverter.Tests.csproj", "{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,14 @@ Global
 		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Debug|Any CPU.Build.0 = Unsafe Debug|Any CPU
 		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Release|Any CPU.ActiveCfg = Unsafe Release|Any CPU
 		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Release|Any CPU.Build.0 = Unsafe Release|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Unsafe Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Unsafe Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Unsafe Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC202F-C86D-4D31-A143-F4E6F71AB8E2}.Unsafe Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
