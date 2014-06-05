@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnZY.Performance.ByteConverter", "GnZY.Performance.ByteConverter\GnZY.Performance.ByteConverter.csproj", "{FC932C94-1992-4935-809C-F935DD595993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Unsafe Debug|Any CPU = Unsafe Debug|Any CPU
+		Unsafe Release|Any CPU = Unsafe Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC932C94-1992-4935-809C-F935DD595993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Debug|Any CPU.ActiveCfg = Unsafe Debug|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Debug|Any CPU.Build.0 = Unsafe Debug|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Release|Any CPU.ActiveCfg = Unsafe Release|Any CPU
+		{FC932C94-1992-4935-809C-F935DD595993}.Unsafe Release|Any CPU.Build.0 = Unsafe Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
